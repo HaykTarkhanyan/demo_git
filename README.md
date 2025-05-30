@@ -1,2 +1,2 @@
 # demo_git
-normal ban
+ankap ban
